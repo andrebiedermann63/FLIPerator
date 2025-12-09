@@ -1,7 +1,6 @@
 # FLIPerator
-FLIPerator - a Pinball Console for Visual Pinball and Others
-
-See also https://www.instructables.com/FLIPerator-a-Pinball-Console-for-Visual-Pinball-an/
+FLIPerator - Eine flipper konsole für Visual Pinball und ander Flippersimulationen.
+FLIPerator - a Pinball Console for Visual Pinball and Others pinball simulations.
 
 Das ist eine USB basierte Spielkonsole für PC-Flipperkästen.
 Die Spannungsversorgung erfolgt über das USB Kabel vom PC.
